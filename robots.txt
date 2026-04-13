@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /_next/
+Sitemap: https://ohana-delivery.com/sitemap.xml
