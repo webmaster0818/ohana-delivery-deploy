@@ -127,4 +127,4 @@
 :HL["/_next/static/media/ffb6d03f9c0a2d7d-s.p.0.52jibsvs0ta.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/images/screenshots/lifft-fv.webp","image"]
 :HL["/images/screenshots/lifft-sp.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"service-guides","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"lifft-kaiyaku","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"uKQESksyLVTqyhIqK1TWp"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"service-guides","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"lifft-kaiyaku","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"GeSKwJM0fhZjVyIXH33AU"}
