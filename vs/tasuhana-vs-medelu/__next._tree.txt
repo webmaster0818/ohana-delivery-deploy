@@ -127,4 +127,4 @@
 :HL["/_next/static/media/ffb6d03f9c0a2d7d-s.p.0.52jibsvs0ta.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/images/screenshots/tasuhana-fv.webp","image"]
 :HL["/images/screenshots/medelu-fv.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"vs","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"tasuhana-vs-medelu","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"UvvjEL0ne4QHwKgz0ertW"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"vs","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"tasuhana-vs-medelu","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"uKQESksyLVTqyhIqK1TWp"}
